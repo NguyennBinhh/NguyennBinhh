@@ -75,7 +75,6 @@
 🎬 Thanks for stopping by my GitHub—hope you enjoyed browsing my projects!  
 👋 Feel free to explore my repositories and check out my game dev videos below:  
 
-[![Watch My Game Dev Video 🎥](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-> Click the thumbnail to watch!  
+![Coding GIF](https://pin.it/391ZAZasD)  
 
 🚀 Stay tuned for more updates and happy coding!  
