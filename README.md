@@ -2,9 +2,9 @@
 <img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm TienNHM</h2>
+<h2 align="center">Hi 👋, I'm Nguyen Binh (Shuu)</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate game developer from Vietnam&#x1F1FB;&#x1F1F3;, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players. </h3>
 </p>
 
 > ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
