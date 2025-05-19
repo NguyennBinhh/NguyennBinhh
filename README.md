@@ -20,7 +20,7 @@
 
 ✍️ In my spare time, I sketch game concepts, write development logs on my blog, and contribute to open-source Unity tools.<br>
 
-📄 Let's connect! You can reach me at **nbbinh.202@example.com** or via [LinkedIn](https://www.linkedin.com/in/binh-nguyen-2baa09366/).<br>
+📄 Let's connect! You can reach me at **nbbinh.202@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/binh-nguyen-2baa09366/).<br>
 
 ## 📫 How to reach me:
 
