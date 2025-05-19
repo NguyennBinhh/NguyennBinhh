@@ -8,7 +8,7 @@
 
 <h2> 👋 About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://drive.google.com/file/d/1ivP7btOCa_bh7bkHZNQuD2xby69X6cR7/view" />
+<img width="55%" align="right" alt="Github" src="logo_shuu.png" />
 
 🎮 I'm a passionate game developer from Vietnam, specializing in Unity.<br>
 
