@@ -5,15 +5,27 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Nguyen+Ba+Binh+(Shuu);" alt="Headline" />
 </div>
 </p>
-<p align="center">
-  <h3 style="color=blue;" align="center">A passionate game developer from Vietnam <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/>, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players. </h3>
- </p>
+
 
 
 
 <br />
 
 ![](https://komarev.com/ghpvc/?username=NguyennBinhh&style=flat-square)
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
 
 ## 📫 How to reach me:
 
