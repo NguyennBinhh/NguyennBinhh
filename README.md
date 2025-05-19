@@ -1,9 +1,10 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi👋+I'm+Nguyen+Ba+Binh+(Shuu)!,+hi;)](https://git.io/typing-svg)
+
 <h2 align="center">Hi 👋, I'm Nguyen Ba Binh (Shuu)</h2>
 <p align="center">
   <h3 align="center">A passionate game developer from Vietnam <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/>, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players. </h3>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=A passionate game developer from Vietnam <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/>, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players.;)](https://git.io/typing-svg)
 </p>
 
 
