@@ -39,7 +39,7 @@
   </a>
 </p>
 
-## Skills:
+## 🛠 Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
