@@ -10,12 +10,12 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🎮 I'm a passionate game developer from Vietnam, specializing in Unity.
-🚀 I’ve contributed to both corporate and personal projects across casual, hyper-casual, puzzle, karting, TPF, and adventure genres.
-🌱 I thrive under pressure, embrace responsibility, and continuously learn new technologies.
-💡 I excel at tackling design challenges and optimizing performance to deliver smooth, engaging player experiences.
-✍️ In my spare time, I sketch game concepts, write development logs on my blog, and contribute to open-source Unity tools.
-📫 Let's connect! You can reach me at **nbbinh.202@example.com** or via [LinkedIn](https://www.linkedin.com/in/binh-nguyen-2baa09366/).
+🎮 I'm a passionate game developer from Vietnam, specializing in Unity.<br>
+🚀 I’ve contributed to both corporate and personal projects across casual, hyper-casual, puzzle, karting, TPF, and adventure genres.<br>
+🌱 I thrive under pressure, embrace responsibility, and continuously learn new technologies.<br>
+💡 I excel at tackling design challenges and optimizing performance to deliver smooth, engaging player experiences.<br>
+✍️ In my spare time, I sketch game concepts, write development logs on my blog, and contribute to open-source Unity tools.<br>
+📫 Let's connect! You can reach me at **nbbinh.202@example.com** or via [LinkedIn](https://www.linkedin.com/in/binh-nguyen-2baa09366/).<br>
 
 ## 📫 How to reach me:
 
