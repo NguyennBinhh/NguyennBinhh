@@ -6,19 +6,16 @@
 </div>
 </p>
 
-<h2>## 👋 About Me</h2>
+<h2> 👋 About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+🎮 I'm a passionate game developer from Vietnam, specializing in Unity.
+🚀 I’ve contributed to both corporate and personal projects across casual, hyper-casual, puzzle, karting, TPF, and adventure genres.
+🌱 I thrive under pressure, embrace responsibility, and continuously learn new technologies.
+💡 I excel at tackling design challenges and optimizing performance to deliver smooth, engaging player experiences.
+✍️ In my spare time, I sketch game concepts, write development logs on my blog, and contribute to open-source Unity tools.
+📫 Let's connect! You can reach me at **nbbinh.202@example.com** or via [LinkedIn](https://www.linkedin.com/in/binh-nguyen-2baa09366/).
 
 ## 📫 How to reach me:
 
