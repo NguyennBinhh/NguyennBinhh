@@ -75,6 +75,6 @@
 🎬 Thanks for stopping by my GitHub—hope you enjoyed browsing my projects!  
 👋 Feel free to explore my repositories and check out my game dev videos below:  
 
-![Coding GIF](https://pin.it/391ZAZasD)  
+ <img src="https://pin.it/391ZAZasD">
 
 🚀 Stay tuned for more updates and happy coding!  
