@@ -4,10 +4,10 @@
 
 <h2 align="center">Hi 👋, I'm Nguyen Binh (Shuu)</h2>
 <p align="center">
-  <h3 align="center">A passionate game developer from Vietnam&#x1F1FB;&#x1F1F3;, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players. </h3>
+  <h3 align="center">A passionate game developer from Vietnam&<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/>, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players. </h3>
 </p>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+
 
 <br />
 
