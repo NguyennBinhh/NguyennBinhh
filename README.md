@@ -1,8 +1,7 @@
-<!-- <img align="left" width="400" src="" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm Nguyen Binh (Shuu)</h2>
+<h2 align="center">Hi 👋, I'm Nguyen Ba Binh (Shuu)</h2>
 <p align="center">
   <h3 align="center">A passionate game developer from Vietnam <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/> <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fb-1f1f3.png" alt="🇻🇳" width="20"/>, focused on creating immersive games with Unity. I enjoy building engaging mechanics and continuously learning to improve my craft, striving to deliver fun and meaningful experiences for players. </h3>
 </p>
@@ -16,7 +15,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://www.linkedin.com/in/binh-nguyen-2baa09366/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
