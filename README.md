@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-        <img src="https://img.icons8.com/officel/80/php-logo.png"/>
+        <img src="https://img.icons8.com/nolan/64/php-logo.png"/>
         <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
         <img src="https://img.icons8.com/color/48/css3.png"/>
 </p>
